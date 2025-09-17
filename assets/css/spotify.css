@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #191414;
+  color: white;
+  text-align: center;
+}
+
+header .logo {
+  width: 100px;
+}
+
+a {
+  color: #1db954;
+  text-decoration: none;
+}
+
+.screenshot {
+  width: 250px;
+  margin: 20px auto;
+}

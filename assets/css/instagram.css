@@ -1,0 +1,30 @@
+body {
+  font-family: "Verdana", sans-serif;
+  background: linear-gradient(135deg, #f58529, #dd2a7b, #8134af, #515bd4);
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+
+header .logo {
+  width: 100px;
+  margin-top: 20px;
+}
+
+a {
+  color: #ffe600;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.screenshot {
+  width: 250px;
+  margin: 20px auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+footer {
+  margin-top: 20px;
+  padding: 10px;
+}
